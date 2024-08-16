@@ -12,5 +12,5 @@ The first release can be found here: [Release v0.0.1](https://github.com/chi-qui
 I didn't do much research on *sound* and how to adjust it so that it doesn't destroy your ears, so make sure to ***NOT*** launch this at full volume and blow your ears out. Might make a sound adjuster in a later version but for now be cautious.
 
 ### Credits
-- Created by me (Douglas)
+- Created by me (Douglas), in like 9 hours
 - Idea stolen from either NaviStf or Shoe (kinda forgot, so yall can fight over the rights of this lmao)
