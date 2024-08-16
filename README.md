@@ -13,4 +13,4 @@ I didn't do much research on *sound* and how to adjust it so that it doesn't des
 
 ### Credits
 - Created by me (Douglas)
-- Idea stolen from NaviStf & Shoe (so yall can fight over the rights of this lmao)
+- Idea stolen from either NaviStf or Shoe (kinda forgot, so yall can fight over the rights of this lmao)
